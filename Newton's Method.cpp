@@ -1,5 +1,5 @@
 ﻿// Copyright © 2019 by Aleksy Bałaziński 
-// Permission is granted to freely distribute this file in any form for personl and educational use,
+// Permission is granted to freely distribute this file in any form for personal and educational use,
 // provided this copyright notice is not removed. Commercial use is prohibited.
 
 #include <iostream>
